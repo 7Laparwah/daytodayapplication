@@ -1,0 +1,54 @@
+{
+  "budget": {
+    "monthlyLimit": 25000,
+    "currency": "INR"
+  },
+  "userProfile": {
+    "name": "Dharm",
+    "email": "dharm1331@gmail.com",
+    "pinLocked": true,
+    "notificationsEnabled": true
+  },
+  "transactions": [
+    {
+      "id": "tx-101",
+      "title": "Grocery Shopping",
+      "amount": 1450,
+      "type": "expense",
+      "category": "Food",
+      "paymentMode": "UPI",
+      "date": "2026-09-24T17:54:17.784Z",
+      "note": "Supermarket monthly essentials"
+    },
+    {
+      "id": "tx-102",
+      "title": "Salary Credit",
+      "amount": 45000,
+      "type": "income",
+      "category": "Salary",
+      "paymentMode": "Bank Transfer",
+      "date": "2026-09-24T17:54:17.785Z",
+      "note": "Monthly salary credit"
+    },
+    {
+      "id": "tx-103",
+      "title": "Electricity Bill",
+      "amount": 1820,
+      "type": "expense",
+      "category": "Bills",
+      "paymentMode": "UPI",
+      "date": "2026-09-24T17:54:17.785Z",
+      "note": "Torrent Power Bill"
+    },
+    {
+      "id": "tx-104",
+      "title": "Fuel & Gas",
+      "amount": 500,
+      "type": "expense",
+      "category": "Travel",
+      "paymentMode": "Cash",
+      "date": "2026-09-24T17:54:17.785Z",
+      "note": "Bike petrol fill"
+    }
+  ]
+}
